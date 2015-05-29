@@ -1,3 +1,8 @@
+/* Federico Bruzone
+ * 'Tipos de datos primitivos: Espacio en memoria y valores posibles'
+ * 29/5/2015
+ */
+
 #include <iostream>
 #include <iomanip>
 #include <limits.h>
